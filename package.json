@@ -3,7 +3,6 @@
     "axios": "^1.4.0",
     "cookie-parser": "^1.4.6",
     "cors": "^2.8.5",
-    "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "freeice": "^2.2.2",
     "jimp": "^0.22.8",
@@ -25,5 +24,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "dotenv": "^16.1.4"
+  }
 }
